@@ -46,4 +46,22 @@ export const CLUES = [
     image: "08-professor.svg",
     board: "08",
   },
+  {
+    description:
+      "Your final interview is Colonel Yellow. He is a retired military officer who is now a private security consultant. He states he was at the hotel for a meeting with a client. He has no alibi for the time of the approximate time of death.\n\nA review of his previous day's activities place him at the Boston Armory. A review of the armory's inventory indicates that a weapon is missing.\n\nThe hotel staff report that they saw Colonel Yellow and the victim arguing in the lobby. The argument was about the victim's involvement in a secret project that Colonel Yellow was overseeing. The project was to develop a new type of weapon that could be used to incapacitate an enemy without causing any physical harm. The victim was concerned that the weapon could be used for nefarious purposes. Colonel Yellow was insistent that the weapon was safe and that the victim was overreacting. The argument ended with the victim storming out of the hotel.",
+    image: "09-yellow.svg",
+    board: "09",
+  },
+  {
+    description:
+      "Further reviewing the day's activities at the hotel, you find a bill to repair a broken ice machine. It seems it was broken by one of the guests and had been making large, sharp icicles.",
+    image: "10-repair-bill.svg",
+    board: "10",
+  },
+  {
+    description:
+      "As you are meeting with a colleague about the case, you see a Boston Globe discarded on the T. It has a headline that shows the victim's picture and reads: 'Local Actor Found Dead in Boston Common.'",
+    image: "11-newspaper.svg",
+    board: "11",
+  },
 ];
