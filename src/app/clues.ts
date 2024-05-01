@@ -82,4 +82,10 @@ export const CLUES = [
     image: "14-fingerprints.svg",
     board: "14",
   },
+  {
+    description:
+      "You head to the theater where the victim was hired to perform. The stage manager tells you that the victim was a no-show for the performance and was supposed to arrive at 7PM for cast call.\n\nYou ask when was the last time they saw the victim and they remark that it was after the last rehearsal, performed a magic trick where they would be handcuffed and submerged in a tank of water. The tank was filled with water and the handcuffs were found on the floor. The stage manager states that the trick was not dangerous and that the victim had performed it many times before.\n\nYou ask about the note found in the victim's pocket and the stage manager states that it was line notes from the director, Steven Scarlet, but they were not aware of any meeting with Mr. Boddy.",
+    image: "15-scarlet.svg",
+    board: "15",
+  },
 ];
