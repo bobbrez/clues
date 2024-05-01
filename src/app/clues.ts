@@ -76,4 +76,10 @@ export const CLUES = [
     image: "13-anonymous.svg",
     board: "13",
   },
+  {
+    description:
+      "The lab has come back with a report of fingerprints on the knife. The prints belong to the victim but no other prints were found on the knife.\n\nThe lab technician, a knida quirky and nerdy guy, makes a point of meeting you in person to tell you the results. It could have been an email, but he clearly he wanted to see you in person. It seems he has a crush on you and is trying to impress you with his knowledge of forensic science and computer mastery. You politely thank him and leave. He is a bit of a weirdo, but he is good at his job. You feel him looking at your butt as you walk away.",
+    image: "14-fingerprints.svg",
+    board: "14",
+  },
 ];
