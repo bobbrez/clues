@@ -16,12 +16,12 @@ export const CLUES = [
     image: "03-knife.svg",
     board: "03",
   },
-  // {
-  //   description:
-  //     "A witness reports seeing a suspicious person in the area. Reviewing the transit logs, you find a person named Timothy Curry who matches the description. He states he was i",
-  //   image: "04-suspect-tim.svg",
-  //   board: "04",
-  // },
+  {
+    description:
+      "A witness reports seeing a suspicious person in the area. Reviewing the transit logs, you find a person named Timothy Curry who matches the description. He states he was knows the victim and met them at the W Boston Hotel at 6:00 PM and then they parted ways. He has no alibi for the time of the approximate time of death.",
+    image: "04-suspect-tim.svg",
+    board: "04",
+  },
   // {
   //   description:
   //     "A witness reports seeing a suspicious person in the area. Reviewing the transit logs, you find a person named Timothy Curry who matches the description.",
