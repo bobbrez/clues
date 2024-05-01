@@ -64,4 +64,16 @@ export const CLUES = [
     image: "11-newspaper.svg",
     board: "11",
   },
+  {
+    description:
+      "A note was discovered in the victim's pocket. It reads:\n\n 'I know what you did. I know who you are. I know where you live. I know where you work. I know who you love. I know what you fear. I know what you desire. I know what you dream. I know what you think. I know what you feel. I know what you see. I know what you hear. I know what you taste. I know what you smell. I know what you touch. I know what you say. I know what you do. I know what you are.'\n\nIt ends with \n\n'Meet me at the W Lounge at 6:15PM and I will tell you the rest.'",
+    image: "12-line-notes.svg",
+    board: "12",
+  },
+  {
+    description:
+      "You review the Lounge's reservation list and find a reservation for a Mr. Boddy at 6:15 PM. Reviewing the security footage, you observe the victim entering the lounge and meeting with Mr. Boddy. Between the camera angle and their dress, you are unable to make out who Mr. Boddy is. They have what seems like a heated discussion and the victim storms out of the lounge.",
+    image: "13-anonymous.svg",
+    board: "13",
+  },
 ];
