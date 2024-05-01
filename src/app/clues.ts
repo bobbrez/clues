@@ -88,4 +88,10 @@ export const CLUES = [
     image: "15-scarlet.svg",
     board: "15",
   },
+  {
+    description:
+      "You head to the private dressing room for the victim. It is immaculately clean and organized. No fingerprints, nothing out of place. Just as you are about to leave, hidden behind a mirror, you find a small button and some thread. It seems to have been torn off of a jacket.\n\nThe victim was not wearing a jacket when they were found.",
+    image: "16-dressing-room.svg",
+    board: "16",
+  },
 ];
