@@ -6,8 +6,14 @@ export const CLUES = [
   },
   {
     description:
-      "A police report indicating a body was found at the Parkman Bandstand having been stabbed. No knife was found, but the body was lying in a puddle of water.",
+      "A police report indicating a body was found at the Parkman Bandstand having been stabbed. No weapon was found, but the body was lying in a puddle of water.",
     image: "02-body-report.svg",
     board: "02",
+  },
+  {
+    description:
+      "A knife was found in the pond at the Boston Public Garden. It appears to have blood on it.",
+    image: "03-knife.svg",
+    board: "03",
   },
 ];
