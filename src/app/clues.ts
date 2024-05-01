@@ -94,4 +94,10 @@ export const CLUES = [
     image: "16-dressing-room.svg",
     board: "16",
   },
+  {
+    description:
+      "Also inside of the dressing room, you find a neatly wrapped chicken sandwich. It is still fresh and has just a few bites taken from it. The stage manager informs you that the victim had a habit of getting one before each performance.",
+    image: "17-dressing-room.svg",
+    board: "17",
+  },
 ];
