@@ -31,7 +31,7 @@ const Home = async () => {
       <p className="text-4xl text-white font-bold w-full text-center pt-16">
         You Found A Clue!
       </p>
-      <p className="text-xl text-white font-bold w-full text-center pt-4">
+      <p className="text-xl text-white font-bold w-full text-center pt-4 whitespace-break-spaces">
         {clue.description}
       </p>
       <div className="pt-16">

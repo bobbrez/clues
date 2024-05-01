@@ -22,10 +22,10 @@ export const CLUES = [
     image: "04-suspect-tim.svg",
     board: "04",
   },
-  // {
-  //   description:
-  //     "A witness reports seeing a suspicious person in the area. Reviewing the transit logs, you find a person named Timothy Curry who matches the description.",
-  //   image: "04-suspect-tim.svg",
-  //   board: "04",
-  // },
+  {
+    description:
+      'A letter is found in the victim\'s pocket. It reads: \n\n"It will be to your advantage to be present on this date because a Mr. Boddy will bring to an end a certain long-standing confidential and painful financial liability."\n\nIt is signed, "A friend."',
+    image: "05-letter.svg",
+    board: "05",
+  },
 ];
