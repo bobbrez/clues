@@ -1,65 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 294.4 180.8">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 294.37 180.82">
   <defs>
-    <style>
-      .cls-1 {
-        fill: #5d4354;
-        opacity: .2;
-      }
-
-      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
-        stroke-width: 0px;
-      }
-
-      .cls-1, .cls-5 {
-        mix-blend-mode: multiply;
-      }
-
-      .cls-2 {
-        fill: #da8d79;
-      }
-
-      .cls-3 {
-        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_398);
-      }
-
-      .cls-4 {
-        fill: url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_365);
-      }
-
-      .cls-5 {
-        fill: #c9af88;
-        opacity: .5;
-      }
-
-      .cls-6 {
-        fill: #b0603f;
-      }
-
-      .cls-7 {
-        isolation: isolate;
-      }
-    </style>
-    <linearGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_398" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 398" x1="146.6" y1="172" x2="146.6" y2="3.7" gradientUnits="userSpaceOnUse">
+    <linearGradient id="b" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 398" x1="146.64" y1="172.04" x2="146.64" y2="3.73" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#edb473"/>
       <stop offset="1" stop-color="#e0b595"/>
     </linearGradient>
-    <linearGradient id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_365" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 365" x1="154.7" y1="172.6" x2="154.7" y2="-.9" gradientTransform="translate(-5.2 .9) skewX(-2.4)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="c" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 365" x1="154.69" y1="172.64" x2="154.69" y2="-.9" gradientTransform="translate(-5.24 .9) skewX(-2.36)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#c77c50"/>
       <stop offset="1" stop-color="#bf8761"/>
     </linearGradient>
+    <linearGradient id="d" data-name="¡ÂÁ˚ÏˇÌÌ˚È „‡‰ËÂÌÚ 382" x1="-269.24" y1="-231.08" x2="-269.24" y2="-236.73" gradientTransform="translate(-293.35 49.57) rotate(-145.43) scale(.82 -.91) skewX(16.07)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c72a34"/>
+      <stop offset="1" stop-color="#f04c33"/>
+    </linearGradient>
   </defs>
-  <g class="cls-7">
-    <g id="Layer_1" data-name="Layer 1">
+  <g style="isolation: isolate;">
+    <g id="a" data-name="Layer 1">
       <g>
-        <polygon class="cls-1" points="294.4 180.8 8 179.8 3.2 82 292.6 1 294.4 180.8"/>
+        <polygon points="294.37 180.82 8.03 179.82 3.17 82.01 292.65 .96 294.37 180.82" style="fill: #5d4354; mix-blend-mode: multiply; opacity: .22; stroke-width: 0px;"/>
         <g>
-          <path class="cls-3" d="M287.4,171.9c-93.5.5-186.9-.4-280.4,0,0,0-3.4-111.3-3.3-167.1,94.2.9,191.5,1.2,285.7-1.1-2.3,56.2-1.4,112-2.1,168.2Z"/>
-          <path class="cls-5" d="M5.7,169L9.5,13.2l278.1,4c-1-7.4,1.5-6,2-13.5C195.3,6,98,5.7,3.8,4.8c.7,6.6-.8,157.6,2,164.2Z"/>
-          <path class="cls-6" d="M288.3,172.4c-94,1.4-190.4,1-284.5,2.2-.8-.8-.3-.3-1-1C3.8,116.9,1.2,58.8,0,2.1.6,1.2.8.9,1.3,0c95.7,2.2,195.5,1.7,291.3,1-2.1,56.2-3.8,115.3-4.3,171.4ZM7.3,168.6c90.6-.4,187.5.8,278.1.4l1.9-161.1c-92.2,2.2-190.5-.9-282.7-2,.6,52.8,2.7,162.6,2.7,162.6Z"/>
-          <path class="cls-2" d="M3.9,174.6h.3L5.3,0c-.8,0-3.1,0-3.9,0C.8.9.6,1.2,0,2.1c1.2,56.7,3.8,114.7,2.8,171.4.7.7.4.4,1,1Z"/>
-          <path class="cls-4" d="M290.5,174.6c-95.5.3-191.1-.4-286.6,0C4.5,116.2,2.5,58.4,1.3,0c97.4,1.4,193.8,2.6,291.3,1-2.4,58-1.4,115.7-2.2,173.6ZM7.8,171c93.9-.4,185.6.5,279.5,0,.7-55.5,2.1-166.3,2.1-166.3-94.7,2.3-189.1.7-283.7-.4l2.1,166.7Z"/>
+          <path d="M287.4,171.89c-93.45.48-186.92-.35-280.37,0,0,0-3.39-111.25-3.27-167.09,94.22.85,191.51,1.22,285.75-1.07-2.28,56.17-1.39,112.02-2.11,168.16Z" style="fill: url(#b); stroke-width: 0px;"/>
+          <path d="M5.72,169.01L9.46,13.21l278.06,3.99c-.96-7.45,1.48-6.04,1.99-13.47C195.28,6.02,98.02,5.65,3.77,4.8c.7,6.59-.76,157.6,1.95,164.21Z" style="fill: #c9af88; mix-blend-mode: multiply; opacity: .5; stroke-width: 0px;"/>
+          <path d="M288.32,172.39c-94.02,1.36-190.43.96-284.46,2.21-.77-.76-.26-.26-1.03-1.02C3.76,116.86,1.24,58.8,0,2.13.57,1.21.77.91,1.34,0c95.71,2.23,195.51,1.68,291.31.96-2.07,56.18-3.82,115.28-4.33,171.43ZM7.27,168.63c90.64-.43,187.49.81,278.12.44l1.88-161.11c-92.15,2.24-190.52-.9-282.67-1.96.58,52.84,2.67,162.64,2.67,162.64Z" style="fill: #b0603f; stroke-width: 0px;"/>
+          <path d="M3.86,174.6h.3L5.29.05c-.81-.02-3.14-.04-3.95-.05C.77.91.57,1.21,0,2.13c1.24,56.67,3.76,114.73,2.83,171.45.73.73.41.41,1.03,1.02Z" style="fill: #da8d79; stroke-width: 0px;"/>
+          <path d="M290.49,174.61c-95.54.29-191.08-.36-286.62,0C4.5,116.18,2.49,58.35,1.34,0c97.45,1.35,193.8,2.63,291.31.96-2.36,58.01-1.41,115.67-2.16,173.65ZM7.84,170.99c93.87-.36,185.63.47,279.5-.01.72-55.52,2.12-166.29,2.12-166.29-94.66,2.29-189.07.71-283.73-.4l2.12,166.7Z" style="fill: url(#c); stroke-width: 0px;"/>
         </g>
+      </g>
+      <g>
+        <polygon points="76.91 57.3 48.98 60.62 44.99 25.59 71.52 22.37 76.91 57.3" style="fill: #cfc596; mix-blend-mode: multiply; opacity: .5; stroke-width: 0px;"/>
+        <rect x="45.47" y="23.85" width="28.03" height="33.46" transform="translate(-4.21 6.99) rotate(-6.5)" style="fill: #b385b5; stroke-width: 0px;"/>
+        <polygon points="61.86 67.16 23.75 66.69 23.75 32 60.26 31.6 61.86 67.16" style="fill: #baa596; mix-blend-mode: multiply; opacity: .5; stroke-width: 0px;"/>
+        <rect x="22.15" y="31.6" width="38.11" height="33" style="fill: #fee858; stroke-width: 0px;"/>
+        <g>
+          <path d="M51.66,34.93c.49,1.67,2.27,2.62,3.99,2.12,1.72-.5,2.72-2.26,2.23-3.93-.48-1.67-2.27-2.62-3.99-2.12-1.72.5-2.72,2.26-2.24,3.93Z" style="fill: #b28d8d; mix-blend-mode: multiply; opacity: .5; stroke-width: 0px;"/>
+          <path d="M52.47,33.25c.44,1.52,2.15,2.36,3.82,1.87,1.67-.49,2.66-2.11,2.22-3.63-.44-1.52-2.15-2.36-3.82-1.87-1.67.48-2.66,2.11-2.22,3.63Z" style="fill: #c72a34; stroke-width: 0px;"/>
+          <path d="M52.47,33.04c.44,1.52,2.15,2.36,3.82,1.87,1.67-.49,2.66-2.11,2.22-3.63-.44-1.52-2.15-2.36-3.82-1.87-1.67.48-2.66,2.11-2.22,3.63Z" style="fill: #de3e35; stroke-width: 0px;"/>
+          <path d="M57.34,30.23l.75,1.4s.28,2.09-2.01,2.67c-2.29.58-3.06-1.16-3.06-1.16l-.13-1.62,4.45-1.29Z" style="fill: url(#d); stroke-width: 0px;"/>
+          <path d="M52.89,31.52c.32,1.1,1.57,1.7,2.8,1.34,1.23-.36,1.96-1.54,1.64-2.63-.32-1.1-1.57-1.7-2.8-1.34-1.23.36-1.96,1.54-1.65,2.63Z" style="fill: #f04c33; stroke-width: 0px;"/>
+        </g>
+        <text transform="translate(27.5 47.88) rotate(-7.34)" style="fill: #724866; font-family: MarkerFelt-Thin, &apos;Marker Felt&apos;; font-size: 8.06px; font-weight: 200;"><tspan x="0" y="0">M</tspan><tspan x="7.5" y="0" style="letter-spacing: .05em;">e</tspan><tspan x="10.98" y="0" style="letter-spacing: .08em;">e</tspan><tspan x="14.72" y="0" style="letter-spacing: .07em;">t</tspan><tspan x="18.17" y="0" style="letter-spacing: .05em;">i</tspan><tspan x="20.17" y="0" style="letter-spacing: .03em;">n</tspan><tspan x="24.36" y="0">g</tspan><tspan x="0" y="9.67" style="letter-spacing: -.16em;">7</tspan><tspan x="3.34" y="9.67" style="letter-spacing: -.02em;">:</tspan><tspan x="5.02" y="9.67" style="letter-spacing: 0em;">00 pm</tspan></text>
       </g>
     </g>
   </g>

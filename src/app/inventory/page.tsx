@@ -1,9 +1,14 @@
+import { kv } from "@vercel/kv";
 import Image from "next/image";
+import { CLUES } from "../clues";
 
-const Page = () => {
+const Page = async () => {
+  const version = await kv.get<number>("version");
+  const clue = CLUES[(version ?? 1) - 1];
+
   return (
     <main className="w-full flex flex-col items-center justify-center">
-      <Image src="/board-02.svg" alt="A Clue" fill />
+      <Image src={`/board-${clue?.board ?? "00"}.svg`} alt="A Clue" fill />
     </main>
   );
 };
