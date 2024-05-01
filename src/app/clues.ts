@@ -18,7 +18,7 @@ export const CLUES = [
   },
   {
     description:
-      "A witness reports seeing a suspicious person in the area. Reviewing the transit logs, you find a person named Timothy Curry who matches the description. He states he was knows the victim and met them at the W Boston Hotel at 6:00 PM and then they parted ways. He has no alibi for the time of the approximate time of death.",
+      "A witness reports seeing a suspicious person in the area. Reviewing the transit logs, you find a person named Timothy Curry who matches the description. He states he was knows the victim and met them at the W Boston Hotel where Timothy works as a private Butler at 6:00 PM and then they parted ways. He has no alibi for the time of the approximate time of death.",
     image: "04-suspect-tim.svg",
     board: "04",
   },
