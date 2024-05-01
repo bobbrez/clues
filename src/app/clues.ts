@@ -6,7 +6,7 @@ export const CLUES = [
   },
   {
     description:
-      "A police report indicating a body was found at the Parkman Bandstand",
+      "A police report indicating a body was found at the Parkman Bandstand having been stabbed. No knife was found, but the body was lying in a puddle of water.",
     image: "02-body-report.svg",
     board: "02",
   },
